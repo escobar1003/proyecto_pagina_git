@@ -1,2 +1,2 @@
-// JavaScript inicial
-console.log("Proyecto iniciado");
+// JS del header
+console.log("Header cargado correctamente");
