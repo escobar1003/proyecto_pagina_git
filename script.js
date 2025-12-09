@@ -1,3 +1,7 @@
+// FOOTER
+console.log("Footer cargado correctamente.");
+
+// HEADER
 console.log("Header cargado correctamente");
 
 const fotoPerfil = document.getElementById('fotoPerfil');
